@@ -23,7 +23,7 @@ public class DailyTask {
 
 		while (n != 999) {
 			System.out.println("数字を入力してください。（999で終了）");
-			n = sc.nextInt()
+			n = sc.nextInt();
 		if (n == 999) {
 				break;
 			}
